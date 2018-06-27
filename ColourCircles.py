@@ -1,3 +1,5 @@
+# Draws circles in a loop
+
 import turtle
 t = turtle.Pen()
 t.speed(0)
